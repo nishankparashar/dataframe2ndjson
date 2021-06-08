@@ -6,6 +6,7 @@ dataframe2ndjson converts a dataframe to ndjson file.
 
 ## How to use it?
 ```import dataframe2ndjson```
+
  ```dataframe2ndjson.df_to_ndjson(df,path)```
 
 ## License
