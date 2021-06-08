@@ -5,7 +5,8 @@ dataframe2ndjson converts a dataframe to ndjson file.
 ```pip install dataframe2ndjson```
 
 ## How to use it?
-```import dataframe2ndjson \n dataframe2ndjson.df_to_ndjson(df,path)```
+```import dataframe2ndjson```
+ ```dataframe2ndjson.df_to_ndjson(df,path)```
 
 ## License
 
