@@ -1,5 +1,5 @@
 # dataframe2ndjson
-dataframe2ndjson is an python library converts a dataframe to ndjson file.
+dataframe2ndjson is a python library that converts a dataframe to ndjson file.
 
 ## Installation
 ```pip install dataframe2ndjson```
